@@ -9,4 +9,4 @@ module.exports = {
   rpc: require("./rpc.js"),
   desubits: require("./desubits.js"),
   passphrase: require("./passphrase.js")
-}
+};
